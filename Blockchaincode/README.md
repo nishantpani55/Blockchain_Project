@@ -1,3 +1,7 @@
+Clone from Github:-
+
+git clone https://github.com/nishantpani55/nci20212sem1_demo.git
+
 Build an Image:-
 docker build -t nishantpani55/blockchain_21194530:smartcontract .
 
